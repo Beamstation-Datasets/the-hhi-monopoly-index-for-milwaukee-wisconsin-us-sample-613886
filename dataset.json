@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Milwaukee, Wisconsin, US",
+  "export_job_id": "05f41afa-5f85-46b0-b4fb-f17b9392e06d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 613886,
+  "location_name": "Milwaukee",
+  "location_type": "city",
+  "repo_name": "the-hhi-monopoly-index-for-milwaukee-wisconsin-us-sample-613886",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/613886/beamstation_613886_restaurants-us-wi_SAMPLE_DIST.csv",
+  "sample_pct": 7.89,
+  "sample_records": 3,
+  "sample_sha256": "2a6cd91ae738387c41085456f7c9d18a9eaefa9e25c127998b037f9fb2867793",
+  "sample_size_bytes": 28525,
+  "total_records": 38,
+  "updated_at": "2026-04-07T14:59:57.694145+00:00"
+}
